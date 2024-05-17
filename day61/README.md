@@ -1,9 +1,9 @@
 # 100_days_code_challenge
 
-Day-60 Task:
+Day-61 Task:
 
 Read the following Articles and Code along with it:
 
-Functions in JavaScript: https://javascript.info/function-basics
+Arrow functions Basics in JavaScript: https://javascript.info/arrow-functions-basics
 
-Function Expressions in JavaScript: v
+JavaScript specials in JavaScript: https://javascript.info/javascript-specials
