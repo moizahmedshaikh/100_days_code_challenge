@@ -1,9 +1,9 @@
 # 100_days_code_challenge
 
-Day-60 Task:
+Day-62 Task:
 
-Read the following Articles and Code along with it:
+First understand what typescript is, and why we need it, then setup typescript using the following guides:
 
-Functions in JavaScript: https://javascript.info/function-basics
+TypeScript Introduction in Simple Words: 
 
-Function Expressions in JavaScript: v
+Setup TypeScript | Step-by-Step: 
