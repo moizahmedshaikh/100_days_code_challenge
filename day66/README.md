@@ -1,7 +1,7 @@
-# Day-63 of `100-Days-Of-Code` Challenge
+# Day-66 of `100-Days-Of-Code` Challenge
 
-**Day-63 Task:**
+**Day-66 Task:**
 
-Learn about TypeScript types by using the following guide and coding along with the examples provided in it:
+Learn about different TypeScript type system concepts by using the following guide and coding along with the examples provided in it:
 
-[Multiple Types in TypeScript](./TS-Types/README.md)
+[TypeScript Type System Concepts](./TS-Type-System-Concepts/README.md)
