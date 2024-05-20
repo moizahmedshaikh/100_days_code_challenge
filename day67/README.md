@@ -1,3 +1,7 @@
-# 100_days_code_challenge
+# Day-67 of `100-Days-Of-Code` Challenge
 
-first time coding challenge.
+**Day-67 Task:**
+
+Learn about TypeScript arrays by using the following guide and coding along with the examples provided in it:
+
+[Type Annotations With Arrays in TypeScript](./TS-Array/README.md)
