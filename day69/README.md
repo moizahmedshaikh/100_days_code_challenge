@@ -1,3 +1,7 @@
-# 100_days_code_challenge
+# Day-69 of `100-Days-Of-Code` Challenge
 
-first time coding challenge.
+**Day-69 Task:**
+
+Learn about TypeScript enums by using the following guide and coding along with the examples provided in it:
+
+[Enums in TypeScript](./TS-Enums/README.md)
