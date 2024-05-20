@@ -1,3 +1,7 @@
-# 100_days_code_challenge
+# Day-68 of `100-Days-Of-Code` Challenge
 
-first time coding challenge.
+**Day-68 Task:**
+
+Learn about TypeScript tuples by using the following guide and coding along with the examples provided in it:
+
+[Tuple Data Type in TypeScript](./TS-Tuple/README.md)
