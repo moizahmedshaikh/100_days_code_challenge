@@ -1,7 +1,7 @@
-# Day-71 of `100-Days-Of-Code` Challenge
+# Day-74 of `100-Days-Of-Code` Challenge
 
-**Day-71 Task:**
+**Day-74 Task:**
 
-Learn about TypeScript classes by using the following guide and coding along with the examples provided in it:
+Learn about TypeScript Debugging by using the following guide and debug along with it:
 
-[Class Type Annotations in TypeScript](./TS-Class/README.md)
+[Debugging in TypeScript](./TS-debugging/README.md)
