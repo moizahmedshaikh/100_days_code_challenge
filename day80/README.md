@@ -1,7 +1,7 @@
-# Day-75 of `100-Days-Of-Code` Challenge
+# Day-80 of `100-Days-Of-Code` Challenge
 
-**Day-75 Task:**
+**Day-80 Task:**
 
-Read the following Article with interactive videos about How does the internet work? behind the scenes what happens, etc.
+Read the following Article about the difference between Full Stack Developer or Software Engineer.
 
-[How does the internet work?](https://roadmap.sh/guides/what-is-internet)
+[Full Stack Developer or Software Engineer – Which Way to Go?](https://roadmap.sh/full-stack/vs-software-engineer)
