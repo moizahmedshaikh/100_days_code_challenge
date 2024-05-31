@@ -1,7 +1,7 @@
-# Day-75 of `100-Days-Of-Code` Challenge
+# Day-90 of `100-Days-Of-Code` Challenge
 
-**Day-75 Task:**
+**Day-90 Task:**
 
-Read the following Article with interactive videos about How does the internet work? behind the scenes what happens, etc.
+Today's task is to learn about:
 
-[How does the internet work?](https://roadmap.sh/guides/what-is-internet)
+- [Fetching Data](https://nextjs.org/learn/dashboard-app/fetching-data)
