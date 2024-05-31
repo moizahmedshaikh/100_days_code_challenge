@@ -1,7 +1,7 @@
-# Day-75 of `100-Days-Of-Code` Challenge
+# Day-78 of `100-Days-Of-Code` Challenge
 
-**Day-75 Task:**
+**Day-78 Task:**
 
-Read the following Article with interactive videos about How does the internet work? behind the scenes what happens, etc.
+Read and understand the following Visual Guide about the Web Vitals.
 
-[How does the internet work?](https://roadmap.sh/guides/what-is-internet)
+[What are Web Vitals?](https://roadmap.sh/guides/what-are-web-vitals)
