@@ -1,7 +1,9 @@
-# Day-75 of `100-Days-Of-Code` Challenge
+# Day-76 of `100-Days-Of-Code` Challenge
 
-**Day-75 Task:**
+**Day-76 Task:**
 
-Read the following Article with interactive videos about How does the internet work? behind the scenes what happens, etc.
+Read and understand the following Visual Guide about DNS and DHCP.
 
-[How does the internet work?](https://roadmap.sh/guides/what-is-internet)
+[What is DNS?](https://roadmap.sh/guides/dns-in-one-picture)
+
+[What is DHCP?](https://roadmap.sh/guides/dhcp-in-one-picture)
