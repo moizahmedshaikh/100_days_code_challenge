@@ -1,7 +1,7 @@
-# Day-75 of `100-Days-Of-Code` Challenge
+# Day-77 of `100-Days-Of-Code` Challenge
 
-**Day-75 Task:**
+**Day-77 Task:**
 
-Read the following Article with interactive videos about How does the internet work? behind the scenes what happens, etc.
+Read and understand the following Visual Guide about SSL, TLS, and SSH protocols.
 
-[How does the internet work?](https://roadmap.sh/guides/what-is-internet)
+[SSL vs TLS vs SSH Protocols](https://roadmap.sh/guides/ssl-tls-https-ssh)
