@@ -1,7 +1,7 @@
-# Day-71 of `100-Days-Of-Code` Challenge
+# Day-75 of `100-Days-Of-Code` Challenge
 
-**Day-71 Task:**
+**Day-75 Task:**
 
-Learn about TypeScript classes by using the following guide and coding along with the examples provided in it:
+Read the following Article with interactive videos about How does the internet work? behind the scenes what happens, etc.
 
-[Class Type Annotations in TypeScript](./TS-Class/README.md)
+[How does the internet work?](https://roadmap.sh/guides/what-is-internet)
