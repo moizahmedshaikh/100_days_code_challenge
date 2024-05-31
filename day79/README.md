@@ -1,7 +1,9 @@
-# Day-75 of `100-Days-Of-Code` Challenge
+# Day-79 of `100-Days-Of-Code` Challenge
 
-**Day-75 Task:**
+**Day-79 Task:**
 
-Read the following Article with interactive videos about How does the internet work? behind the scenes what happens, etc.
+Read the following Articles with interactive video about Basics of Authentication and HTTP Basic Authentication.
 
-[How does the internet work?](https://roadmap.sh/guides/what-is-internet)
+[Basics of Authentication](https://roadmap.sh/guides/basics-of-authentication)
+
+[HTTP Basic Authentication](https://roadmap.sh/guides/http-basic-authentication)
