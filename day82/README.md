@@ -1,7 +1,8 @@
-# Day-75 of `100-Days-Of-Code` Challenge
+# Day-82 of `100-Days-Of-Code` Challenge
 
-**Day-75 Task:**
+**Day-82 Task:**
 
-Read the following Article with interactive videos about How does the internet work? behind the scenes what happens, etc.
+Today's task is to learn about:
 
-[How does the internet work?](https://roadmap.sh/guides/what-is-internet)
+- [Updating UI with Javascript](https://nextjs.org/learn/react-foundations/updating-ui-with-javascript)
+- [Getting Started with React](https://nextjs.org/learn/react-foundations/getting-started-with-react)
