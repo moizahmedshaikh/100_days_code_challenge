@@ -1,7 +1,8 @@
-# Day-75 of `100-Days-Of-Code` Challenge
+# Day-88 of `100-Days-Of-Code` Challenge
 
-**Day-75 Task:**
+**Day-88 Task:**
 
-Read the following Article with interactive videos about How does the internet work? behind the scenes what happens, etc.
+Today's task is to learn about:
 
-[How does the internet work?](https://roadmap.sh/guides/what-is-internet)
+- [Creating Layouts and Pages](https://nextjs.org/learn/dashboard-app/creating-layouts-and-pages)
+- [Navigating Between Pages](https://nextjs.org/learn/dashboard-app/navigating-between-pages)
