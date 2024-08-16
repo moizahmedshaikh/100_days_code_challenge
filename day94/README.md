@@ -1,7 +1,7 @@
-# Day-91 of `100-Days-Of-Code` Challenge
+# Day-94 of `100-Days-Of-Code` Challenge
 
-**Day-91 Task:**
+**Day-94 Task:**
 
 Today's task is to learn about:
 
-- [Static and Dynamic Rendering](https://nextjs.org/learn/dashboard-app/static-and-dynamic-rendering)
+- [Adding Search and Pagination](https://nextjs.org/learn/dashboard-app/adding-search-and-pagination)
