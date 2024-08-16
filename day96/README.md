@@ -1,7 +1,8 @@
-# Day-91 of `100-Days-Of-Code` Challenge
 
-**Day-91 Task:**
+# Day-96 of `100-Days-Of-Code` Challenge
+
+**Day-96 Task:**
 
 Today's task is to learn about:
 
-- [Static and Dynamic Rendering](https://nextjs.org/learn/dashboard-app/static-and-dynamic-rendering)
+[Handling Errors](https://nextjs.org/learn/dashboard-app/error-handling)
